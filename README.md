@@ -4,6 +4,10 @@ En primer pas he accedit a la pagina web d'IsardVDI i he iniciat sessió amb el 
 
 Seguidament li he donat a la màquina virtual feta per "Victor Carceler"  que ens habia recomanat al profe. Un cop fet hi ha que posar de visor "Space" i al donarli click estarem ja dins de la màquina virtual.
 
+## 2.Instal·lació del gestor d’arxius Nextcloud
+
+
+
 
 
 
