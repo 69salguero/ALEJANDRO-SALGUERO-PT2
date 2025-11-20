@@ -5,7 +5,7 @@ En primer pas he accedit a la pagina web d'IsardVDI i he iniciat sessió amb el 
 Seguidament li he donat a la màquina virtual feta per "Victor Carceler"  que ens habia recomanat al profe. Un cop fet hi ha que posar de visor "Space" i al donarli click estarem ja dins de la màquina virtual.
 
 ## 2.Instal·lació de LAMP stack a Ubuntu 24.04
-Per instal·lar una pila LAMP (Linux, Apache, MySQL, PHP) a Ubuntu 24.04, segueix aquests passos detallats. Aquesta guia assumeix que comences amb un sistema net d’Ubuntu 24.04 i tens privilegis `sudo`.
+Per instal·lar una pila LAMP (Linux, Apache, MySQL, PHP), segueix aquests passos detallats. Aquesta guia assumeix que comences amb un sistema net d’Ubuntu 24.04 i tens privilegis `sudo`.
 
 ### 1. **Actualitza el sistema**
 ```bash
