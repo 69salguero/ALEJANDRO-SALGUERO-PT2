@@ -47,5 +47,5 @@ Començarem amb l'adminitrador; hem de donar-li click al nostre perfil a la part
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/09.png)
 
-Seguidament
+Seguidament 
 
