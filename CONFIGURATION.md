@@ -38,3 +38,6 @@ Seguidament et sortirà si vols crear un enllaç públic o escriure el nom de la
 
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/07.png)
+
+## 5.Creació d'usuaris
+### 1. Crear tres usuaris
