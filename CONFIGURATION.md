@@ -42,3 +42,5 @@ Seguidament et sortirà si vols crear un enllaç públic o escriure el nom de la
 ## 5.Creació d'usuaris
 ### 1. Crear tres usuaris
 Per crear usuaris i administrar-los hem de donar-li click al nostre perfil a la part dreta i a dalt. Al donar-li et sortirà la opció de donar-li click a "cuentas".
+![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/08.png)
+
