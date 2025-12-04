@@ -47,5 +47,5 @@ Començarem amb l'adminitrador; hem de donar-li click al nostre perfil a la part
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/09.png)
 
-Seguidament 
+Seguidament li donem a "+ cuenta nueva", ens apareixera les dades que volem posar, i en "miembro de los siguientes grupos" o "administrador de los siguientes grupos" posem "admin".
 
