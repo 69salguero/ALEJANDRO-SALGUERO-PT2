@@ -44,7 +44,7 @@ Seguidament et sortirà si vols crear un enllaç públic o escriure el nom de la
 Com he de crear tres usuaris de diferents rols: un de **admin**, de **editor** i **visualitzador**.
 
 
-Començarem amb **l'administrador**; hem de donar-li click al nostre perfil a la part dreta i a dalt. Al donar-li et sortirà la opció de donar-li click a "cuentas".
+**L'administrador**; hem de donar-li click al nostre perfil a la part dreta i a dalt. Al donar-li et sortirà la opció de donar-li click a "cuentas".
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/08.png)
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/09.png)
@@ -57,4 +57,6 @@ Seguidament li donem a "+ cuenta nueva", ens apareixera les dades que volem posa
 Al crear-la et sortirà això:
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/012.png)
+
+**Editor**; hem d'anar on estàvem avans i donar-li a "Grupos     +" i poses el nom que vulguis (en el meu cas he posat "editor"). Quan esté creat el grup, li dones a "+ cuenta nueva" un altre vegada i en "miembro de los siguientes grupos" o "administrador de los siguientes grupos" poses editor.
 
