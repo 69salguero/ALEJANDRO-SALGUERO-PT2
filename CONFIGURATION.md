@@ -62,3 +62,5 @@ Al crear-la et sortirà això:
 
 https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/013.png
 
+https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/014.png
+
