@@ -52,5 +52,5 @@ Seguidament li donem a "+ cuenta nueva", ens apareixera les dades que volem posa
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/010.png)
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/011.png)
 
-Al crear-la et sortirà això: 
+Al crear-la et sortirà això: ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/012.png)
 
