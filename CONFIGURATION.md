@@ -60,7 +60,9 @@ Al crear-la et sortirà això:
 
 **Editor**; hem d'anar on estàvem avans i donar-li a "Grupos     +" i poses el nom que vulguis (en el meu cas he posat "editor"). Quan esté creat el grup, li dones a "+ cuenta nueva" un altre vegada i en "miembro de los siguientes grupos" o "administrador de los siguientes grupos" poses editor.
 
-https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/013.png
+![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/013.png)
 
-https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/014.png
+![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/014.png)
+
+![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/015.png)
 
