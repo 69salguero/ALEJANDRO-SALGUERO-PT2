@@ -72,3 +72,6 @@ Aqui us deixò una captura dels tres rols:
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/016.png)
 
+
+### 2.Documentar el procés
+
