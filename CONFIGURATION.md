@@ -66,3 +66,7 @@ Al crear-la et sortirà això:
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/015.png)
 
+**Visualitzador**; fem el mateix que en el de editor, canviant el nom per "Visualitzador" i en "miembro de los siguientes grupos" o "administrador de los siguientes grupos" poses "visualitzador" també.
+
+Aqui us deixò una captura dels tres rols:
+
