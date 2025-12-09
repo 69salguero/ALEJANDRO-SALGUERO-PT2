@@ -76,5 +76,6 @@ Aqui us deixò una captura dels tres rols:
 
 
 ## 6.Assignació de rols i permisos
-### 1. Configurar permissos per rol:
+### 1. Configurar permissos per rol
+Per congigurar-lo haurem d'anar a qualsevol carpeta i donar-li a compartir. A l'hora de compartir et sortirà per escriure un nom, en aquest cas hauras de posar el rol que vols canvi
 
