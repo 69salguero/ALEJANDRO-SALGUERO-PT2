@@ -101,12 +101,7 @@ Haurem de crear carpetes (en el meu cas he creat 3).
 
 ### 2. Polítiques de seguretat
 
-Al estar creades, haurem de donar-li a compartir i a "crear enlace público".
-
-
-
-
-
+Al estar creades, haurem de donar-li a compartir i a "crear enlace público". Et sortirà per canviar els rols i posarás els personalitzats, per posar la fetxa de caducitat i una contrasenya inventada.
 
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/21.png)
