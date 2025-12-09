@@ -77,7 +77,7 @@ Aqui us deixò una captura dels tres rols:
 
 ## 6.Assignació de rols i permisos
 ### 1. Configurar permissos per rol
-Per congigurar-lo haurem d'anar a qualsevol carpeta i donar-li a compartir. A l'hora de compartir et sortirà per escriure un nom, en aquest cas hauras de posar el rol que vols i canviar els seus permissos.
+Per configurar-lo haurem d'anar a qualsevol carpeta i donar-li a compartir. A l'hora de compartir et sortirà per escriure un nom, en aquest cas hauras de posar el rol que vols i canviar els seus permissos.
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/017.png)
 
@@ -86,4 +86,8 @@ Aqui tens les tres opcions, depèn del rol que has de posar n'hi ha que posar di
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/018.png)
 
 ### 2. Demostrar l'efecte dels permissos
+
+Aqui podem veure la demostració:
+
+![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/019.png)
 
