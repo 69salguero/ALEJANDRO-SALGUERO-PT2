@@ -79,3 +79,5 @@ Aqui us deixò una captura dels tres rols:
 ### 1. Configurar permissos per rol
 Per congigurar-lo haurem d'anar a qualsevol carpeta i donar-li a compartir. A l'hora de compartir et sortirà per escriure un nom, en aquest cas hauras de posar el rol que vols i canviar els seus permissos.
 
+https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/017.png
+
