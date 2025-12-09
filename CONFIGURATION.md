@@ -96,7 +96,7 @@ Aqui podem veure la demostració:
 ### 1. Organització de carpetes i fitxers
 
 Haurem de crear carpetes (en el meu cas he creat 3).
-https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/20.png
+![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/20.png)
 
 
 
@@ -104,5 +104,5 @@ https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/20.png
 
 
 
-https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/21.png
+![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/21.png)
 
