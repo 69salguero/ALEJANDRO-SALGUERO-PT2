@@ -50,7 +50,7 @@ He creat els tres usuaris de diferents rols: un de **admin**, de **editor** i **
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/08.png)
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/09.png)
-
+https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/tree/main
 Seguidament li donem a "+ cuenta nueva", ens apareixera les dades que volem posar, i en "miembro de los siguientes grupos" o "administrador de los siguientes grupos" posem "admin".
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/010.png)
@@ -76,5 +76,5 @@ Aqui us deixò una captura dels tres rols:
 
 
 ## 6.Assignació de rols i permisos
-### Configurar permissos per rol:
+### 1. Configurar permissos per rol:
 
