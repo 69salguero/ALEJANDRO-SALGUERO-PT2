@@ -98,3 +98,11 @@ Aqui podem veure la demostració:
 Haurem de crear carpetes (en el meu cas he creat 3).
 https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/020.png
 
+
+
+
+
+
+
+https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/021.png
+
