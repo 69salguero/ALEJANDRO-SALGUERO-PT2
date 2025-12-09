@@ -99,6 +99,11 @@ Haurem de crear carpetes (en el meu cas he creat 3).
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/20.png)
 
 
+### 2. Polítiques de seguretat
+
+Al estar creades, haurem de donar-li a compartir 
+
+
 
 
 
