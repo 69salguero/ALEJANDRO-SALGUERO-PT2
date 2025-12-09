@@ -76,4 +76,5 @@ Aqui us deixò una captura dels tres rols:
 
 
 ## 6.Assignació de rols i permisos
+### Configurar permissos per rol:
 
