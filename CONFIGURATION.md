@@ -101,7 +101,7 @@ Haurem de crear carpetes (en el meu cas he creat 3).
 
 ### 2. Polítiques de seguretat
 
-Al estar creades, haurem de donar-li a compartir 
+Al estar creades, haurem de donar-li a compartir i a "crear enlace público".
 
 
 
