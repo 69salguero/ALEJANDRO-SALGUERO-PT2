@@ -93,5 +93,7 @@ Aqui podem veure la demostració:
 
 
 ## 7.Administració d'arxius
-### 1. Organitzacióde carpetes i fitxers
+### 1. Organització de carpetes i fitxers
+
+Haurem de crear carpetes (en el meu cas he creat 3).
 
