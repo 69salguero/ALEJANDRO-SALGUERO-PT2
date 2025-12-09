@@ -43,8 +43,7 @@ Seguidament et sortirà si vols crear un enllaç públic o escriure el nom de la
 ### 1. Crear tres usuaris
 He creat els tres usuaris de diferents rols: un de **admin**, de **editor** i **visualitzador**.
 
-
-### 2.Documentar el procés
+### 2. Documentar el procés
 
 
 **L'administrador**; hem de donar-li click al nostre perfil a la part dreta i a dalt. Al donar-li et sortirà la opció de donar-li click a "cuentas".
@@ -76,5 +75,5 @@ Aqui us deixò una captura dels tres rols:
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/016.png)
 
 
-### 2.Documentar el procés
+## 6.Assignació de rols i permisos
 
