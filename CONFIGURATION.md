@@ -91,3 +91,7 @@ Aqui podem veure la demostració:
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/019.png)
 
+
+## 7.Administració d'arxius
+### 1. Organitzacióde carpetes i fitxers
+
