@@ -110,4 +110,7 @@ Al estar creades, haurem de donar-li a compartir i a "crear enlace público". Et
 ## 8.Accés des d’una màquina qualsevol de la xarxa
 ### 1. Configuració d’accés remot
 
+Es permet l'accés:
+-1. Trobant la ip de la màquina virtual
+
 
