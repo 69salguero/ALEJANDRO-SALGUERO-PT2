@@ -50,7 +50,7 @@ He creat els tres usuaris de diferents rols: un de **admin**, de **editor** i **
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/8.png)
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/9.png)
-https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/tree/main
+
 Seguidament li donem a "+ cuenta nueva", ens apareixera les dades que volem posar, i en "miembro de los siguientes grupos" o "administrador de los siguientes grupos" posem "admin".
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/10.png)
