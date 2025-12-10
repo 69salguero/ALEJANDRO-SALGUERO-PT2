@@ -11,5 +11,9 @@ Aquesta pràctica consisteix a crear una màquina virtual amb **IsardVDI**, inst
 
 [CONFIGURATION.md](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/CONFIGURATION.md)
 
+## Observacions o problemes
+
+A la pràctica no he tingut ningun problema com a tal, però si que em va costar una mica crear el NextCloud, ja que n'hi havien ordres que no em funcionaven bé.
+
 
 
