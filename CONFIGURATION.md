@@ -120,4 +120,7 @@ Es permet l'accés:
 
 - **4. Accedir des d’un altre dispositiu de la xarxa:** des d’un navegador només cal escriure l’adreça IP de la màquina virtual seguida de “/nextcloud”. Si tot és correcte, apareixerà la pàgina d’inici de sessió del teu Nextcloud.
 
+### 2. Accés a clouds de companys
+**Opció:** des del programa oficial de Nextcloud es poden afegir diversos comptes. Només cal posar l’adreça del servidor del company i el seu nom d’usuari i contrasenya. Així veuràs els seus fitxers en carpetes separades dins del client.
+
 
