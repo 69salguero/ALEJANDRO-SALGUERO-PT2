@@ -112,18 +112,12 @@ Al estar creades, haurem de donar-li a compartir i a "crear enlace público". Et
 
 Es permet l'accés:
 
-- **1. Comprovar la IP de la màquina virtual**
-Cal saber quina adreça IP té per poder-hi accedir des d’un altre ordinador.
+- **1. Comprovar la IP de la màquina virtual:** cal saber quina adreça IP té per poder-hi accedir des d’un altre ordinador.
 
-- **2. Afegir aquesta IP a la configuració de Nextcloud**
-A la configuració hi ha un apartat anomenat trusted domains (dominis de confiança).
-Allà s’ha d’afegir la IP de la màquina virtual perquè Nextcloud accepti connexions des de fora, no només des de la pròpia màquina.
+- **2. Afegir aquesta IP a la configuració de Nextcloud:** a la configuració hi ha un apartat anomenat trusted domains (dominis de confiança). Allà s’ha d’afegir la IP de la màquina virtual perquè Nextcloud accepti connexions des de fora, no només des de la pròpia màquina.
 
-- **3. Assegurar que el servidor web accepta connexions externes**
-El servidor (Apache o Nginx) ha d’estar configurat perquè altres dispositius de la xarxa puguin connectar-s’hi.
+- **3. Assegurar que el servidor web accepta connexions externes.** el servidor (Apache o Nginx) ha d’estar configurat perquè altres dispositius de la xarxa puguin connectar-s’hi.
 
-- **4. Accedir des d’un altre dispositiu de la xarxa**
-Des d’un navegador només cal escriure l’adreça IP de la màquina virtual seguida de “/nextcloud”.
-Si tot és correcte, apareixerà la pàgina d’inici de sessió del teu Nextcloud.
+- **4. Accedir des d’un altre dispositiu de la xarxa:** des d’un navegador només cal escriure l’adreça IP de la màquina virtual seguida de “/nextcloud”. Si tot és correcte, apareixerà la pàgina d’inici de sessió del teu Nextcloud.
 
 
