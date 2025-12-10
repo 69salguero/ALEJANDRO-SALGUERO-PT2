@@ -106,3 +106,8 @@ Al estar creades, haurem de donar-li a compartir i a "crear enlace público". Et
 
 ![](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/21.png)
 
+
+## 8.Accés des d’una màquina qualsevol de la xarxa
+### 1. Configuració d’accés remot
+
+
