@@ -1,7 +1,9 @@
 # Practica 2
+## Breu explicació
 
 
 
+# Enllaços
 
 [CONFIGURATION.md](https://github.com/69salguero/ALEJANDRO-SALGUERO-PT2/blob/main/CONFIGURATION.md)
 
