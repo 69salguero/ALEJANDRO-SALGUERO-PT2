@@ -2,7 +2,7 @@
 ## 1.Configuració del sistema de virtualització (IsardVDI)
 En primer pas he accedit a la pagina web d'IsardVDI i he iniciat sessió amb el meu usuari. Li he donat a "crear escriptori nou" i he posat de nom "Jandro aplicacions web".
 
-Seguidament li he donat a la màquina virtual feta per "Victor Carceler"  que ens habia recomanat al profe. Un cop fet hi ha que posar de visor "Space" i al donar-li click estarem ja dins de la màquina virtual.
+Seguidament li he donat a la màquina virtual feta per "Victor Carceler"  que ens habia recomanat al profe. Un cop fet hi ha que posar algun visor qualsevol i al donar-li click estarem ja dins de la màquina virtual.
 
 Per entrar al compte de la màquina virtual haurem de posar la contrasenya "usuario".
 
